@@ -1,0 +1,293 @@
+MES,SUBCATEGORIA,REGION,DEPARTAMENTO,CIUDAD,CANTIDADVENDIDA,TOTALVENTA,COSTOTOTAL,MARGENTOTAL
+2,Refrigeración,Caribe Norte,Atlántico,Barranquilla,1,2800000,2240000,560000
+2,Videojuegos,Noroccidente,Antioquia,Medellín,1,1400000,1120000,280000
+2,Pequeños,Oriente,Huila,Neiva,1,500000,400000,100000
+2,Refrigeración,Oriente,Meta,Villavicencio,1,1700000,1360000,340000
+2,Cocina,Caribe,Córdoba,Montería,1,450000,360000,90000
+2,TV,Caribe Norte,Magdalena,Santa Marta,2,4400000,3520000,880000
+2,TV,Eje Cafetero,Risaralda,Pereira,2,4400000,3520000,880000
+4,Videojuegos,Eje Cafetero,Risaralda,Pereira,1,3000000,2400000,600000
+4,Pequeños,Eje Cafetero,Risaralda,Pereira,1,500000,400000,100000
+4,Limpieza,Suroccidente,Valle del Cauca,Cali,1,600000,480000,120000
+4,Sonido,Caribe Norte,Magdalena,Santa Marta,2,1600000,1280000,320000
+4,Climatización,Andina,Tolima,Ibagué,1,2100000,1680000,420000
+5,Videojuegos,Nororiente,Norte de Santander,Cúcuta,1,1400000,1120000,280000
+5,Refrigeración,Eje Cafetero,Risaralda,Pereira,1,2800000,2240000,560000
+6,Secadoras,Nororiente,Santander,Bucaramanga,2,2800000,2240000,560000
+6,Videojuegos,Oriente,Huila,Neiva,2,2800000,2240000,560000
+6,Limpieza,Noroccidente,Antioquia,Medellín,1,1500000,1200000,300000
+1,Limpieza,Oriente,Huila,Neiva,2,3000000,2400000,600000
+1,Videojuegos,Nororiente,Norte de Santander,Cúcuta,1,1400000,1120000,280000
+1,Lavadoras,Oriente,Meta,Villavicencio,2,4000000,3200000,800000
+2,Climatización,Caribe Norte,Bolívar,Cartagena,1,2100000,1680000,420000
+7,Cocina,Sur,Nariño,Pasto,1,450000,360000,90000
+7,Limpieza,Nororiente,Santander,Bucaramanga,2,3000000,2400000,600000
+7,Climatización,Caribe Norte,Magdalena,Santa Marta,1,2100000,1680000,420000
+8,Pequeños,Eje Cafetero,Risaralda,Pereira,3,750000,600000,150000
+8,Pequeños,Oriente,Meta,Villavicencio,1,250000,200000,50000
+8,Refrigeración,Caribe Norte,Atlántico,Barranquilla,1,1700000,1360000,340000
+8,Videojuegos,Eje Cafetero,Risaralda,Pereira,1,3000000,2400000,600000
+9,Videojuegos,Sur,Nariño,Pasto,1,1400000,1120000,280000
+9,Lavadoras,Noroccidente,Antioquia,Medellín,2,4000000,3200000,800000
+10,TV,Caribe Norte,Atlántico,Barranquilla,1,354874,283899,70975
+10,Videojuegos,Caribe Norte,Magdalena,Santa Marta,1,3000000,2400000,600000
+10,Cocina,Nororiente,Santander,Bucaramanga,3,900000,720000,180000
+10,TV,Eje Cafetero,Caldas,Manizales,2,2400000,1920000,480000
+10,Videojuegos,Eje Cafetero,Risaralda,Pereira,2,6000000,4800000,1200000
+11,Refrigeración,Centro,Bogotá D.C.,Bogotá,1,2800000,2240000,560000
+11,Refrigeración,Caribe Norte,Bolívar,Cartagena,4,5500000,4400000,1100000
+11,Cocina,Caribe,Córdoba,Montería,1,300000,240000,60000
+11,Lavadoras,Caribe Norte,Bolívar,Cartagena,1,2000000,1600000,400000
+11,Limpieza,Centro,Bogotá D.C.,Bogotá,2,3000000,2400000,600000
+11,Sonido,Eje Cafetero,Caldas,Manizales,2,1600000,1280000,320000
+12,Cocina,Suroccidente,Valle del Cauca,Cali,1,300000,240000,60000
+12,Limpieza,Nororiente,Norte de Santander,Cúcuta,2,2100000,1680000,420000
+12,Videojuegos,Oriente,Huila,Neiva,2,2800000,2240000,560000
+12,Limpieza,Caribe Norte,Atlántico,Barranquilla,1,1500000,1200000,300000
+12,TV,Caribe Norte,Atlántico,Barranquilla,1,2200000,1760000,440000
+2,Limpieza,Caribe,Córdoba,Montería,1,1500000,1200000,300000
+2,Pequeños,Eje Cafetero,Risaralda,Pereira,1,250000,200000,50000
+2,Videojuegos,Andina,Tolima,Ibagué,2,6000000,4800000,1200000
+3,Refrigeración,Nororiente,Santander,Bucaramanga,1,1700000,1360000,340000
+3,Cocina,Suroccidente,Valle del Cauca,Cali,1,300000,240000,60000
+3,Climatización,Nororiente,Norte de Santander,Cúcuta,1,2100000,1680000,420000
+3,Sonido,Eje Cafetero,Risaralda,Pereira,1,800000,640000,160000
+3,Sonido,Caribe Norte,Magdalena,Santa Marta,1,800000,640000,160000
+4,Videojuegos,Eje Cafetero,Caldas,Manizales,1,1400000,1120000,280000
+4,Cocina,Caribe Norte,Bolívar,Cartagena,1,300000,240000,60000
+4,Limpieza,Nororiente,Norte de Santander,Cúcuta,1,600000,480000,120000
+4,Videojuegos,Suroccidente,Valle del Cauca,Cali,3,9000000,7200000,1800000
+4,Secadoras,Eje Cafetero,Caldas,Manizales,1,1400000,1120000,280000
+5,Cocina,Caribe,Córdoba,Montería,1,300000,240000,60000
+5,Sonido,Caribe,Córdoba,Montería,3,2400000,1920000,480000
+5,Lavadoras,Caribe,Córdoba,Montería,1,2000000,1600000,400000
+6,Cocina,Eje Cafetero,Risaralda,Pereira,1,300000,240000,60000
+1,Lavadoras,Sur,Nariño,Pasto,1,2000000,1600000,400000
+1,Sonido,Oriente,Meta,Villavicencio,1,800000,640000,160000
+1,Climatización,Oriente,Huila,Neiva,3,6300000,5040000,1260000
+1,Limpieza,Andina,Tolima,Ibagué,2,3000000,2400000,600000
+7,Limpieza,Eje Cafetero,Caldas,Manizales,1,900000,720000,180000
+7,Limpieza,Caribe Norte,Atlántico,Barranquilla,4,2400000,1920000,480000
+7,TV,Caribe Norte,Atlántico,Barranquilla,1,2200000,1760000,440000
+8,Pequeños,Caribe Norte,Atlántico,Barranquilla,1,250000,200000,50000
+8,Climatización,Suroccidente,Valle del Cauca,Cali,1,2100000,1680000,420000
+10,Refrigeración,Sur,Nariño,Pasto,1,900000,720000,180000
+10,Pequeños,Eje Cafetero,Risaralda,Pereira,7,1750000,1400000,350000
+10,Refrigeración,Nororiente,Santander,Bucaramanga,1,2800000,2240000,560000
+10,TV,Noroccidente,Antioquia,Medellín,1,2200000,1760000,440000
+10,Cocina,Caribe Norte,Magdalena,Santa Marta,3,1350000,1080000,270000
+10,Climatización,Caribe Norte,Atlántico,Barranquilla,1,2100000,1680000,420000
+11,TV,Oriente,Meta,Villavicencio,3,3600000,2880000,720000
+12,Videojuegos,Eje Cafetero,Risaralda,Pereira,1,1400000,1120000,280000
+12,Pequeños,Caribe,Córdoba,Montería,2,1000000,800000,200000
+12,Secadoras,Oriente,Meta,Villavicencio,1,1400000,1120000,280000
+12,Refrigeración,Eje Cafetero,Caldas,Manizales,1,2800000,2240000,560000
+2,Limpieza,Nororiente,Norte de Santander,Cúcuta,3,2700000,2160000,540000
+2,Limpieza,Oriente,Huila,Neiva,3,3900000,3120000,780000
+2,Limpieza,Caribe Norte,Bolívar,Cartagena,1,900000,720000,180000
+3,Refrigeración,Noroccidente,Antioquia,Medellín,1,2800000,2240000,560000
+3,Pequeños,Oriente,Huila,Neiva,1,500000,400000,100000
+3,Limpieza,Centro,Bogotá D.C.,Bogotá,4,2700000,2160000,540000
+3,Pequeños,Nororiente,Santander,Bucaramanga,2,500000,400000,100000
+4,Pequeños,Eje Cafetero,Caldas,Manizales,1,500000,400000,100000
+4,Lavadoras,Centro,Bogotá D.C.,Bogotá,1,2000000,1600000,400000
+4,Limpieza,Oriente,Huila,Neiva,1,1500000,1200000,300000
+4,TV,Caribe Norte,Bolívar,Cartagena,2,2400000,1920000,480000
+5,TV,Caribe Norte,Bolívar,Cartagena,1,2200000,1760000,440000
+5,Videojuegos,Suroccidente,Valle del Cauca,Cali,1,1400000,1120000,280000
+5,Secadoras,Eje Cafetero,Risaralda,Pereira,2,5230660,4184528,1046132
+5,Climatización,Nororiente,Norte de Santander,Cúcuta,1,2100000,1680000,420000
+6,Refrigeración,Caribe,Córdoba,Montería,1,900000,720000,180000
+6,Videojuegos,Eje Cafetero,Risaralda,Pereira,1,3000000,2400000,600000
+1,Secadoras,Caribe Norte,Magdalena,Santa Marta,1,1400000,1120000,280000
+1,Limpieza,Eje Cafetero,Caldas,Manizales,3,2700000,2160000,540000
+1,Videojuegos,Andina,Tolima,Ibagué,1,3000000,2400000,600000
+1,Lavadoras,Noroccidente,Antioquia,Medellín,1,2000000,1600000,400000
+7,Limpieza,Sur,Nariño,Pasto,1,900000,720000,180000
+8,Refrigeración,Eje Cafetero,Risaralda,Pereira,2,1800000,1440000,360000
+8,TV,Eje Cafetero,Caldas,Manizales,3,6600000,5280000,1320000
+9,Pequeños,Nororiente,Norte de Santander,Cúcuta,1,250000,200000,50000
+9,Videojuegos,Caribe Norte,Bolívar,Cartagena,3,9000000,7200000,1800000
+9,Sonido,Noroccidente,Antioquia,Medellín,1,800000,640000,160000
+9,Pequeños,Caribe Norte,Atlántico,Barranquilla,4,1000000,800000,200000
+9,Sonido,Eje Cafetero,Caldas,Manizales,2,1600000,1280000,320000
+10,Refrigeración,Oriente,Huila,Neiva,1,1700000,1360000,340000
+11,Cocina,Nororiente,Norte de Santander,Cúcuta,1,450000,360000,90000
+11,Pequeños,Eje Cafetero,Caldas,Manizales,3,750000,600000,150000
+11,Cocina,Oriente,Meta,Villavicencio,1,300000,240000,60000
+12,Videojuegos,Sur,Nariño,Pasto,1,1400000,1120000,280000
+12,Sonido,Oriente,Huila,Neiva,4,3200000,2560000,640000
+12,Pequeños,Nororiente,Santander,Bucaramanga,1,250000,200000,50000
+2,Limpieza,Sur,Nariño,Pasto,2,3000000,2400000,600000
+2,Secadoras,Eje Cafetero,Caldas,Manizales,4,5600000,4480000,1120000
+3,Pequeños,Caribe Norte,Bolívar,Cartagena,1,250000,200000,50000
+3,Secadoras,Eje Cafetero,Caldas,Manizales,1,1400000,1120000,280000
+3,Cocina,Oriente,Huila,Neiva,1,450000,360000,90000
+3,Limpieza,Caribe,Córdoba,Montería,1,900000,720000,180000
+3,Limpieza,Oriente,Huila,Neiva,3,3900000,3120000,780000
+3,Lavadoras,Nororiente,Santander,Bucaramanga,1,1600000,1280000,320000
+4,Refrigeración,Andina,Tolima,Ibagué,1,1700000,1360000,340000
+4,Refrigeración,Sur,Nariño,Pasto,2,1800000,1440000,360000
+4,Cocina,Nororiente,Norte de Santander,Cúcuta,1,450000,360000,90000
+5,Cocina,Nororiente,Norte de Santander,Cúcuta,1,450000,360000,90000
+5,Climatización,Caribe Norte,Atlántico,Barranquilla,1,2100000,1680000,420000
+1,Pequeños,Caribe Norte,Magdalena,Santa Marta,1,250000,200000,50000
+2,Sonido,Nororiente,Norte de Santander,Cúcuta,2,1600000,1280000,320000
+7,TV,Eje Cafetero,Risaralda,Pereira,2,2400000,1920000,480000
+7,Videojuegos,Suroccidente,Valle del Cauca,Cali,1,3000000,2400000,600000
+8,Cocina,Nororiente,Norte de Santander,Cúcuta,1,450000,360000,90000
+8,Limpieza,Caribe,Córdoba,Montería,1,1500000,1200000,300000
+9,Cocina,Nororiente,Norte de Santander,Cúcuta,1,450000,360000,90000
+9,Sonido,Caribe,Córdoba,Montería,3,2400000,1920000,480000
+9,TV,Oriente,Huila,Neiva,1,2200000,1760000,440000
+9,Sonido,Caribe Norte,Bolívar,Cartagena,1,800000,640000,160000
+9,Secadoras,Eje Cafetero,Risaralda,Pereira,1,1400000,1120000,280000
+9,Climatización,Caribe Norte,Bolívar,Cartagena,1,2100000,1680000,420000
+9,TV,Nororiente,Norte de Santander,Cúcuta,3,3600000,2880000,720000
+10,Sonido,Caribe Norte,Magdalena,Santa Marta,3,2400000,1920000,480000
+10,Lavadoras,Caribe Norte,Magdalena,Santa Marta,2,3200000,2560000,640000
+10,Limpieza,Sur,Nariño,Pasto,1,900000,720000,180000
+11,Climatización,Nororiente,Santander,Bucaramanga,1,2100000,1680000,420000
+11,TV,Oriente,Huila,Neiva,2,4400000,3520000,880000
+11,Refrigeración,Caribe Norte,Atlántico,Barranquilla,2,1800000,1440000,360000
+12,TV,Caribe,Córdoba,Montería,3,6600000,5280000,1320000
+12,Climatización,Caribe,Córdoba,Montería,1,1300000,1040000,260000
+12,Refrigeración,Sur,Nariño,Pasto,1,1700000,1360000,340000
+2,Secadoras,Caribe,Córdoba,Montería,1,1400000,1120000,280000
+3,Refrigeración,Suroccidente,Valle del Cauca,Cali,1,900000,720000,180000
+3,Pequeños,Caribe Norte,Atlántico,Barranquilla,4,1000000,800000,200000
+3,TV,Andina,Tolima,Ibagué,1,2200000,1760000,440000
+4,Climatización,Caribe Norte,Bolívar,Cartagena,2,2600000,2080000,520000
+6,Secadoras,Suroccidente,Valle del Cauca,Cali,1,1400000,1120000,280000
+6,Pequeños,Suroccidente,Valle del Cauca,Cali,2,1000000,800000,200000
+6,Limpieza,Andina,Tolima,Ibagué,1,1500000,1200000,300000
+1,Cocina,Caribe Norte,Bolívar,Cartagena,1,450000,360000,90000
+2,Sonido,Sur,Nariño,Pasto,1,800000,640000,160000
+2,Cocina,Nororiente,Norte de Santander,Cúcuta,1,450000,360000,90000
+8,Pequeños,Caribe Norte,Bolívar,Cartagena,2,1000000,800000,200000
+8,Videojuegos,Nororiente,Norte de Santander,Cúcuta,3,4200000,3360000,840000
+8,Refrigeración,Caribe,Córdoba,Montería,1,2800000,2240000,560000
+8,Cocina,Caribe Norte,Bolívar,Cartagena,1,450000,360000,90000
+8,Videojuegos,Sur,Nariño,Pasto,1,1400000,1120000,280000
+9,TV,Suroccidente,Valle del Cauca,Cali,3,3600000,2880000,720000
+9,Limpieza,Sur,Nariño,Pasto,1,600000,480000,120000
+9,Refrigeración,Sur,Nariño,Pasto,1,1700000,1360000,340000
+9,Refrigeración,Eje Cafetero,Risaralda,Pereira,1,2800000,2240000,560000
+9,Cocina,Andina,Tolima,Ibagué,4,1200000,960000,240000
+10,Refrigeración,Nororiente,Norte de Santander,Cúcuta,2,3400000,2720000,680000
+10,Limpieza,Nororiente,Santander,Bucaramanga,1,600000,480000,120000
+11,Climatización,Nororiente,Norte de Santander,Cúcuta,3,3900000,3120000,780000
+11,Videojuegos,Nororiente,Norte de Santander,Cúcuta,1,3000000,2400000,600000
+11,Climatización,Eje Cafetero,Caldas,Manizales,1,2100000,1680000,420000
+12,Pequeños,Caribe Norte,Atlántico,Barranquilla,2,500000,400000,100000
+12,Pequeños,Eje Cafetero,Risaralda,Pereira,2,1000000,800000,200000
+12,Limpieza,Caribe Norte,Bolívar,Cartagena,1,600000,480000,120000
+12,Limpieza,Andina,Tolima,Ibagué,2,1800000,1440000,360000
+2,TV,Eje Cafetero,Caldas,Manizales,1,2200000,1760000,440000
+2,TV,Oriente,Meta,Villavicencio,2,2400000,1920000,480000
+2,Refrigeración,Nororiente,Norte de Santander,Cúcuta,1,2800000,2240000,560000
+3,Secadoras,Sur,Nariño,Pasto,1,1400000,1120000,280000
+3,Videojuegos,Sur,Nariño,Pasto,1,3000000,2400000,600000
+4,Limpieza,Caribe Norte,Atlántico,Barranquilla,1,900000,720000,180000
+4,TV,Andina,Tolima,Ibagué,1,2200000,1760000,440000
+4,TV,Eje Cafetero,Caldas,Manizales,1,2200000,1760000,440000
+4,Cocina,Sur,Nariño,Pasto,3,900000,720000,180000
+6,Limpieza,Oriente,Huila,Neiva,1,900000,720000,180000
+6,Refrigeración,Nororiente,Norte de Santander,Cúcuta,2,3400000,2720000,680000
+6,Lavadoras,Caribe,Córdoba,Montería,1,2000000,1600000,400000
+6,Limpieza,Caribe,Córdoba,Montería,1,900000,720000,180000
+6,TV,Caribe Norte,Atlántico,Barranquilla,2,2400000,1920000,480000
+1,Secadoras,Caribe,Córdoba,Montería,1,2358199,1886559,471640
+1,Refrigeración,Nororiente,Norte de Santander,Cúcuta,1,2800000,2240000,560000
+1,Climatización,Suroccidente,Valle del Cauca,Cali,1,1300000,1040000,260000
+1,TV,Caribe Norte,Atlántico,Barranquilla,1,1200000,960000,240000
+1,Refrigeración,Caribe,Córdoba,Montería,1,900000,720000,180000
+7,Refrigeración,Suroccidente,Valle del Cauca,Cali,5,10700000,8560000,2140000
+7,Climatización,Nororiente,Santander,Bucaramanga,1,1300000,1040000,260000
+8,Limpieza,Eje Cafetero,Caldas,Manizales,1,900000,720000,180000
+8,Videojuegos,Oriente,Huila,Neiva,1,3000000,2400000,600000
+9,TV,Caribe Norte,Magdalena,Santa Marta,1,1200000,960000,240000
+9,Climatización,Nororiente,Santander,Bucaramanga,1,1300000,1040000,260000
+9,Limpieza,Centro,Bogotá D.C.,Bogotá,3,3600000,2880000,720000
+9,Videojuegos,Nororiente,Norte de Santander,Cúcuta,1,1400000,1120000,280000
+10,TV,Oriente,Meta,Villavicencio,2,2400000,1920000,480000
+10,Pequeños,Caribe,Córdoba,Montería,1,500000,400000,100000
+11,Limpieza,Eje Cafetero,Caldas,Manizales,2,3000000,2400000,600000
+11,Cocina,Eje Cafetero,Caldas,Manizales,1,300000,240000,60000
+12,TV,Nororiente,Norte de Santander,Cúcuta,1,2344679,1875743,468936
+12,Climatización,Caribe Norte,Atlántico,Barranquilla,1,2100000,1680000,420000
+12,Lavadoras,Oriente,Huila,Neiva,2,4000000,3200000,800000
+2,Lavadoras,Centro,Bogotá D.C.,Bogotá,1,2000000,1600000,400000
+2,Pequeños,Caribe Norte,Magdalena,Santa Marta,3,750000,600000,150000
+3,Climatización,Caribe Norte,Atlántico,Barranquilla,1,1300000,1040000,260000
+3,TV,Nororiente,Santander,Bucaramanga,1,1200000,960000,240000
+3,Limpieza,Caribe Norte,Magdalena,Santa Marta,3,3900000,3120000,780000
+4,Limpieza,Noroccidente,Antioquia,Medellín,1,900000,720000,180000
+4,Climatización,Caribe Norte,Magdalena,Santa Marta,2,4200000,3360000,840000
+4,Climatización,Oriente,Meta,Villavicencio,1,1300000,1040000,260000
+4,Videojuegos,Nororiente,Santander,Bucaramanga,1,3000000,2400000,600000
+4,Limpieza,Oriente,Meta,Villavicencio,2,1200000,960000,240000
+4,Pequeños,Caribe Norte,Magdalena,Santa Marta,3,750000,600000,150000
+4,Climatización,Caribe,Córdoba,Montería,2,4200000,3360000,840000
+4,Lavadoras,Caribe Norte,Magdalena,Santa Marta,1,2000000,1600000,400000
+5,Refrigeración,Sur,Nariño,Pasto,2,5600000,4480000,1120000
+5,Videojuegos,Sur,Nariño,Pasto,1,3000000,2400000,600000
+5,Secadoras,Caribe,Córdoba,Montería,2,2800000,2240000,560000
+5,Secadoras,Nororiente,Norte de Santander,Cúcuta,1,1400000,1120000,280000
+6,Lavadoras,Caribe Norte,Magdalena,Santa Marta,2,3200000,2560000,640000
+6,Secadoras,Caribe Norte,Atlántico,Barranquilla,1,1400000,1120000,280000
+6,TV,Eje Cafetero,Caldas,Manizales,1,1200000,960000,240000
+6,TV,Oriente,Meta,Villavicencio,1,2200000,1760000,440000
+1,Refrigeración,Oriente,Meta,Villavicencio,1,900000,720000,180000
+1,Cocina,Andina,Tolima,Ibagué,2,900000,720000,180000
+1,Videojuegos,Eje Cafetero,Caldas,Manizales,1,3000000,2400000,600000
+2,Cocina,Suroccidente,Valle del Cauca,Cali,2,600000,480000,120000
+7,Limpieza,Caribe Norte,Magdalena,Santa Marta,2,1200000,960000,240000
+7,Videojuegos,Oriente,Huila,Neiva,2,2800000,2240000,560000
+7,Limpieza,Oriente,Huila,Neiva,1,600000,480000,120000
+7,Cocina,Eje Cafetero,Caldas,Manizales,3,900000,720000,180000
+7,Refrigeración,Oriente,Huila,Neiva,1,2800000,2240000,560000
+8,Pequeños,Noroccidente,Antioquia,Medellín,4,1000000,800000,200000
+8,Pequeños,Caribe Norte,Magdalena,Santa Marta,1,250000,200000,50000
+10,Pequeños,Caribe Norte,Bolívar,Cartagena,1,500000,400000,100000
+10,Secadoras,Suroccidente,Valle del Cauca,Cali,2,2800000,2240000,560000
+10,Cocina,Caribe Norte,Bolívar,Cartagena,2,600000,480000,120000
+10,Videojuegos,Nororiente,Norte de Santander,Cúcuta,1,1400000,1120000,280000
+10,Sonido,Oriente,Meta,Villavicencio,3,2400000,1920000,480000
+10,Videojuegos,Caribe,Córdoba,Montería,1,1400000,1120000,280000
+10,Climatización,Oriente,Huila,Neiva,2,2600000,2080000,520000
+11,Refrigeración,Caribe Norte,Magdalena,Santa Marta,4,5500000,4400000,1100000
+11,Climatización,Suroccidente,Valle del Cauca,Cali,1,1300000,1040000,260000
+12,Cocina,Caribe Norte,Bolívar,Cartagena,1,300000,240000,60000
+12,Videojuegos,Caribe,Córdoba,Montería,1,1400000,1120000,280000
+3,Secadoras,Oriente,Huila,Neiva,1,1400000,1120000,280000
+3,Videojuegos,Suroccidente,Valle del Cauca,Cali,2,6000000,4800000,1200000
+3,Videojuegos,Caribe,Córdoba,Montería,1,1400000,1120000,280000
+3,Pequeños,Oriente,Meta,Villavicencio,1,500000,400000,100000
+4,Sonido,Eje Cafetero,Risaralda,Pereira,2,1600000,1280000,320000
+4,Cocina,Andina,Tolima,Ibagué,4,1800000,1440000,360000
+4,Refrigeración,Oriente,Huila,Neiva,1,900000,720000,180000
+4,Pequeños,Caribe Norte,Atlántico,Barranquilla,1,500000,400000,100000
+5,Pequeños,Caribe Norte,Atlántico,Barranquilla,1,250000,200000,50000
+5,Limpieza,Oriente,Huila,Neiva,2,3000000,2400000,600000
+6,Videojuegos,Oriente,Meta,Villavicencio,1,3000000,2400000,600000
+1,Climatización,Caribe Norte,Atlántico,Barranquilla,2,2600000,2080000,520000
+1,Videojuegos,Caribe Norte,Atlántico,Barranquilla,2,4400000,3520000,880000
+1,TV,Caribe Norte,Magdalena,Santa Marta,1,2200000,1760000,440000
+1,Refrigeración,Nororiente,Santander,Bucaramanga,1,2800000,2240000,560000
+7,Limpieza,Andina,Tolima,Ibagué,2,1800000,1440000,360000
+8,TV,Andina,Tolima,Ibagué,1,2200000,1760000,440000
+9,Limpieza,Oriente,Huila,Neiva,1,900000,720000,180000
+9,Secadoras,Centro,Bogotá D.C.,Bogotá,1,1400000,1120000,280000
+9,Lavadoras,Caribe,Córdoba,Montería,1,1600000,1280000,320000
+9,Pequeños,Sur,Nariño,Pasto,4,1500000,1200000,300000
+9,Sonido,Nororiente,Norte de Santander,Cúcuta,2,1600000,1280000,320000
+10,Climatización,Oriente,Meta,Villavicencio,1,2100000,1680000,420000
+10,Limpieza,Caribe Norte,Bolívar,Cartagena,1,1500000,1200000,300000
+11,Videojuegos,Caribe Norte,Atlántico,Barranquilla,2,4400000,3520000,880000
+11,Sonido,Caribe Norte,Atlántico,Barranquilla,1,800000,640000,160000
+11,Secadoras,Caribe Norte,Atlántico,Barranquilla,1,1400000,1120000,280000
+11,Climatización,Caribe Norte,Bolívar,Cartagena,1,2100000,1680000,420000
+12,Sonido,Caribe Norte,Bolívar,Cartagena,3,2400000,1920000,480000
+12,Limpieza,Centro,Bogotá D.C.,Bogotá,3,3900000,3120000,780000
+12,Climatización,Caribe Norte,Magdalena,Santa Marta,1,2100000,1680000,420000
